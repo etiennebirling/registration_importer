@@ -14,7 +14,7 @@ months = {
     "mai" : "April",
     "juin" : "June",
     "juil." : "July",
-    "aoöt" : "August",
+    "août" : "August",
     "sept." : "September",
     "oct." : "October",
     "nov." : "November",
